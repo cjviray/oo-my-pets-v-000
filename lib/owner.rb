@@ -68,8 +68,4 @@ class Owner
   end 
 
 
-
-
-
-
 end 

@@ -64,7 +64,7 @@ class Owner
  end 
  
   def list_pets
-    
+    "I have #{fish}"
   end 
 
 

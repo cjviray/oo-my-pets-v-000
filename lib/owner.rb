@@ -55,7 +55,8 @@ class Owner
   end 
   
   def sell_pets
-    @pets 
+    @pets |pet_type, pet_array|
+    pet_array
       pets.mood = "nervous"
     end 
   end 
